@@ -1,0 +1,19 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index",
+    "dev":"nademon index"
+    //"test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mounika",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^7.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
